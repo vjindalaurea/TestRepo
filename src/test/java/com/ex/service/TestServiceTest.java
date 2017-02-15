@@ -10,7 +10,7 @@ public class TestServiceTest {
 	public void testtestMethod1(){
 		TestService service = new TestService();
 		service.testMethod1();
-		service.testMethod2();
+//		service.testMethod2();
 	}
 
 }
