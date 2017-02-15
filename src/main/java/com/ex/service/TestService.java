@@ -1,4 +1,4 @@
-package com.example.service;
+package com.ex.service;
 
 public class TestService {
 	

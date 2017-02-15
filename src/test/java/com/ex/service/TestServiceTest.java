@@ -1,6 +1,8 @@
-package com.example.service;
+package com.ex.service;
 
 import org.junit.Test;
+
+import com.ex.service.TestService;
 
 public class TestServiceTest {
 	
